@@ -1,4 +1,5 @@
-###### $ ls
+```
+#### $ ls
 
 Shows you detailed information about the files and directories you are looking at.
 
@@ -24,3 +25,4 @@ Reverse order while sorting
 # ls -t
 Sort by modification time, newest first
 
+```
