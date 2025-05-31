@@ -18,3 +18,13 @@ ls -la          # List files and directories in long format, including hidden fi
 ```bash
 mkdir ragh    # Create a new directory named 'ragh'
 cd ragh/      # Change directory to 'ragh'
+
+cd .     # . (current directory). This is the directory you are currently in.
+
+cd ..    # .. (parent directory). Takes you to the directory above your current.
+
+cd ~     # ~ (home directory). This directory defaults to your “home directory”. 
+
+cd -     # - (previous directory). This will take you to the previous directory you were just at.
+
+```
