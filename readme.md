@@ -1,4 +1,4 @@
-# Basic Linux Commands
+# Linux Fundamentals
 
 ## User and System Information
 ```bash
