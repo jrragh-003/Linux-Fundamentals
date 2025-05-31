@@ -1,8 +1,8 @@
-### $ ls
+###### $ ls
 
 Shows you detailed information about the files and directories you are looking at.
 
-# $ ls -a
+#### $ ls -a
 
 Also note that not all files in a directory will be visible. Filenames that start with . are hidden, you can view them however with the ls command and pass the -a flag to it (a for all).
 
