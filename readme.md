@@ -63,5 +63,9 @@ rm -i file           # Will give you a prompt on whether you want to actually re
 rm -r directory      # Recursively remove all files and subdirectories it may have
 rmdir directory      # Remove a directory
 ```
-
+## Finding files/directories
+```bash
+find /home -name stars.jpg       # Specify the directory where the file needs to be searched
+find /home -type d -name MyFolder # Type of the file to find. (d) for directory.
+```
 
